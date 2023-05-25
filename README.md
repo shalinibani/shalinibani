@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shalinibani
 - 👀 I’m interested in big data technologies
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Docker
 
 <!---
 shalinibani/shalinibani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
