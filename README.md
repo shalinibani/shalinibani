@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shalinibani
-- 👀 I’m interested in big data technologies
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in using gen AI for adding value to business. 
 
 <!---
 shalinibani/shalinibani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
