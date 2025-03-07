@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shalinibani
-- 👀 I’m interested in using gen AI for adding value to business. 
+- 👀 I’m interested in using gen AI.
 
 <!---
 shalinibani/shalinibani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
